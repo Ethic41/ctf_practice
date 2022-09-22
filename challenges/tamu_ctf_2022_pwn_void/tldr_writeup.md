@@ -29,3 +29,7 @@
 - create another sigret frame to perform ***execve*** syscall ([execve('/bin/sh\x00', 0, 0)])
 - append '/bin/sh\x00' to the end of the sigret frame bytes to write it on our fake stack
 - make syscall, get a shell and cat flag.txt
+
+#### full writeup
+
+- [https://maplebacon.org/2022/04/tamuctf-void/](https://maplebacon.org/2022/04/tamuctf-void/)
