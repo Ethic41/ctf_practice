@@ -42,4 +42,4 @@ RWX:      Has RWX segments
 
 #### full writeup
 
-- [https://maplebacon.org/2022/04/tamuctf-void/](https://maplebacon.org/2022/04/tamuctf-void/)
+- [https://ctftime.org/writeup/30834](https://ctftime.org/writeup/30834)
